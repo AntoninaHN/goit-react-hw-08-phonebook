@@ -1,0 +1,18 @@
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.link {
+
+    display: inline-block;
+    text-decoration: none;
+    background-color: #fff;
+    color: #000000;
+    margin: 30px 10px 0 10px;
+}
+
+.linkActive {
+    text-decoration: none;
+    color: #000000;
+}
